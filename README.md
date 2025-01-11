@@ -1,2 +1,1 @@
-# python-sql_Ecommerce
-Python and SQL
+# python+sql_Ecommerce
